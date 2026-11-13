@@ -7,7 +7,7 @@
 <text x="836" y="19" text-anchor="end" class="a" xml:space="preserve">&#9679; ACCESS GRANTED</text>
 <text xml:space="preserve" x="24" y="56"><tspan class="f">[</tspan><tspan class="a"> OK </tspan><tspan class="f">] </tspan><tspan class="m">Booting </tspan><tspan class="v">AndrewTheShark</tspan><tspan class="m"> v2026.11 ... kernel curious-1.0</tspan></text>
 <text xml:space="preserve" x="24" y="74"><tspan class="f">[</tspan><tspan class="a"> OK </tspan><tspan class="f">] </tspan><tspan class="m">Mounted </tspan><tspan class="v">/home/WillyTv9</tspan><tspan class="m"> (Italy)</tspan></text>
-<text xml:space="preserve" x="24" y="92"><tspan class="f">[</tspan><tspan class="a"> OK </tspan><tspan class="f">] </tspan><tspan class="m">Synced with </tspan><tspan class="v">github.com</tspan><tspan class="m"> @ 2026-11-12 09:22 UTC</tspan></text>
+<text xml:space="preserve" x="24" y="92"><tspan class="f">[</tspan><tspan class="a"> OK </tspan><tspan class="f">] </tspan><tspan class="m">Synced with </tspan><tspan class="v">github.com</tspan><tspan class="m"> @ 2026-11-13 10:57 UTC</tspan></text>
 <text xml:space="preserve" x="24" y="110"><tspan class="f">[</tspan><tspan class="a"> OK </tspan><tspan class="f">] </tspan><tspan class="m">Started </tspan><tspan class="v">curiosity.service</tspan></text>
 <text xml:space="preserve" x="24" y="128"><tspan class="f">[</tspan><tspan class="w">WARN</tspan><tspan class="f">] </tspan><tspan class="m">sleep.service: </tspan><tspan class="w">not found</tspan></text>
 <line x1="24" y1="156" x2="836" y2="156" stroke="#a8bba9" stroke-dasharray="2 4"/>
@@ -44,10 +44,10 @@
 <text xml:space="preserve" x="430" y="342"><tspan class="v">still learning. always curious.</tspan></text>
 
 <text xml:space="preserve" x="430" y="378"><tspan class="a">willy@shark</tspan><tspan class="f">:~$ </tspan><tspan class="c">uptime</tspan></text>
-<text xml:space="preserve" x="430" y="396"><tspan class="v">up 1y 228d, load: </tspan><tspan class="w">coffee coffee coffee</tspan></text>
+<text xml:space="preserve" x="430" y="396"><tspan class="v">up 1y 229d, load: </tspan><tspan class="w">coffee coffee coffee</tspan></text>
 
 <text xml:space="preserve" x="430" y="432"><tspan class="a">willy@shark</tspan><tspan class="f">:~$ </tspan><tspan class="c">git log -1</tspan></text>
-<text xml:space="preserve" x="430" y="450"><tspan class="v">PizzeriaGranPrEgitto</tspan><tspan class="d"> :: </tspan><tspan class="w">39d ago</tspan></text>
+<text xml:space="preserve" x="430" y="450"><tspan class="v">PizzeriaGranPrEgitto</tspan><tspan class="d"> :: </tspan><tspan class="w">40d ago</tspan></text>
 
 <text xml:space="preserve" x="430" y="486"><tspan class="a">willy@shark</tspan><tspan class="f">:~$ </tspan><tspan class="c">git stats</tspan></text>
 <text xml:space="preserve" x="430" y="504"><tspan class="k">repos </tspan><tspan class="v">5</tspan><tspan class="d"> | </tspan><tspan class="k">starred </tspan><tspan class="v">13</tspan><tspan class="d"> | </tspan><tspan class="k">followers </tspan><tspan class="v">9</tspan><tspan class="d"> | </tspan><tspan class="k">following </tspan><tspan class="v">17</tspan></text>
